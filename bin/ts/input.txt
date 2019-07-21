@@ -1,0 +1,549 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 9
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1470
+ 1 string m_Name = ""
+ 1 UInt8 m_usePlaytestSuffix = 0
+ 0 AchievementData m_achievements
+  0 Array Array (31 items)
+   0 int size = 31
+   [0]
+    0 AchievementData data
+     0 int id = 0
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINTUTORIAL"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.wintutorial"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQAQ"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "走进冷战"
+     1 string displayDescription = "完成教程"
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [1]
+    0 AchievementData data
+     0 int id = 1
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINASUSSR"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winasussr"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQAg"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "全世界的工人联合起来"
+     1 string displayDescription = "以苏联获胜一局"
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [2]
+    0 AchievementData data
+     0 int id = 2
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINASUSA"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winasusa"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQAw"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "星条旗永不落"
+     1 string displayDescription = "以美国获胜一局"
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [3]
+    0 AchievementData data
+     0 int id = 3
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINBYFINALSCORING"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winbyfinalscoring"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQBA"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "欢迎来到新千年"
+     1 string displayDescription = "通过终局计分获胜"
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [4]
+    0 AchievementData data
+     0 int id = 4
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINBY20VP"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winby20vp"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQBQ"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "手有暗招"
+     1 string displayDescription = "在终局计分前就获得20VP获胜"
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [5]
+    0 AchievementData data
+     0 int id = 5
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINBYEUROPECONTROL"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winbyeuropecontrol"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQBg"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "直取咽喉"
+     1 string displayDescription = "通过控制欧洲获胜"
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [6]
+    0 AchievementData data
+     0 int id = 6
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINBYDEFCON1"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winbydefcon1"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQBw"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Mutually Assured Destruction"
+     1 string displayDescription = "Win a game with DEFCON 1."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [7]
+    0 AchievementData data
+     0 int id = 7
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINBYWARGAMES"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winbywargames"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQCA"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "The Only Way to Play"
+     1 string displayDescription = "Win a game with Wargames."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [8]
+    0 AchievementData data
+     0 int id = 8
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINBYCUBANMISSILECRISIS"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winbycubanmissilecrisis"
+     1 string idNameAndroid = "CgkI4I7zt-MPEAIQCQ"
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Cuban Missile Crisis"
+     1 string displayDescription = "Win a game via Cuban Missile Crisis"
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [9]
+    0 AchievementData data
+     0 int id = 9
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINAGAINSTAI"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winagainstai"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "How about a nice game of chess?"
+     1 string displayDescription = "Win a game against the AI Player."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [10]
+    0 AchievementData data
+     0 int id = 10
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_LOSETOAI"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.losetoai"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Terminated"
+     1 string displayDescription = "Lose a game against the AI Player."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [11]
+    0 AchievementData data
+     0 int id = 11
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_LOSETOAIBYFINALSCORING"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.losetoaibyfinalscoring"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "It Will Not Stop Until You Are Dead"
+     1 string displayDescription = "Lose a game against the AI Player in final scoring."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [12]
+    0 AchievementData data
+     0 int id = 12
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINANONLINEGAME"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winanonlinegame"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Taste of Victory"
+     1 string displayDescription = "Win an online game."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [13]
+    0 AchievementData data
+     0 int id = 13
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINANONLINEGAMEWITH300RATINGDIFF"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winanonlinegamewith300ratingdiff"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Killer of Giants"
+     1 string displayDescription = "Win an online game against an opponent with a rating at least 300 higher than yours."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [14]
+    0 AchievementData data
+     0 int id = 14
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WININEARLYWAR"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.wininearlywar"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Steamroller"
+     1 string displayDescription = "Win the game in the Early War."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [15]
+    0 AchievementData data
+     0 int id = 15
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINBYVPWHENOPPDOMINATES4REGIONS"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winbyvpwhenoppdominates4regions"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "The Stevenson Conundrum"
+     1 string displayDescription = "Win a game by any means when your opponent has Domination in at least 4 regions."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [16]
+    0 AchievementData data
+     0 int id = 16
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_DOMINATEANYREGION"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.dominateanyregion"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Way of Life"
+     1 string displayDescription = "Dominate a region."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [17]
+    0 AchievementData data
+     0 int id = 17
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_ADVANCESPACERACEFIRST"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.advancespaceracefirst"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "The Race is On"
+     1 string displayDescription = "Be the first player in a game to advance in the space race."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [18]
+    0 AchievementData data
+     0 int id = 18
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_PLAYCHINACARD"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.playchinacard"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Against the Middle"
+     1 string displayDescription = "Play the China Card."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [19]
+    0 AchievementData data
+     0 int id = 19
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_HEADLINESCORINGCARD"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.headlinescoringcard"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "A Bird in the Hand"
+     1 string displayDescription = "Headline a scoring card."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [20]
+    0 AchievementData data
+     0 int id = 20
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINWITHOUTPLAYINGCHINACARD"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winwithoutplayingchinacard"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Chinese Democracy"
+     1 string displayDescription = "Win a game without playing the China Card."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [21]
+    0 AchievementData data
+     0 int id = 21
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINWITHOUTSPACERACEATTEMPT"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winwithoutspaceraceattempt"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "To the Moon, Alice!"
+     1 string displayDescription = "Win a game without ever sending a card to the space race. "
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [22]
+    0 AchievementData data
+     0 int id = 22
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINAFTERMAXINGSPACERACE"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winaftermaxingspacerace"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Rocket Man"
+     1 string displayDescription = "Win a game after reaching the end of the space race track."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [23]
+    0 AchievementData data
+     0 int id = 23
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_WINAFTEROPPHAS18VP"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.winafteropphas18vp"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Two Minutes To Midnight"
+     1 string displayDescription = "Win a game after your opponent reaches 18 on the Victory Point Track."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [24]
+    0 AchievementData data
+     0 int id = 24
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_SCORE8VPFROMSOUTHEASTASIASCORING"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.score8vpfromsoutheastasiascoring"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "King of Southeast Asia"
+     1 string displayDescription = "Score 8 VP when Southeast Asia Scoring is played."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 0
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [25]
+    0 AchievementData data
+     0 int id = 25
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_GAIN3VPFROMARMSRACEFORCEDMISSILEENVY"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.gain3vpfromarmsraceforcedmissileenvy"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Size Matters"
+     1 string displayDescription = "Gain 3 VP from Arms Race when it is drawn for Missile Envy."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [26]
+    0 AchievementData data
+     0 int id = 26
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_GAIN3VPFROMWEWILLBURYYOUWHILEU2INPLAY"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.gain3vpfromwwbywhileu2inplay"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "We Will Bury Your Pilot"
+     1 string displayDescription = "As USSR, gain 3 VP from We Will Bury You while U-2 Incident is in play."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [27]
+    0 AchievementData data
+     0 int id = 27
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_GAIN6VPFROMOPEC"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.gain6vpfromopec"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Oil Baron"
+     1 string displayDescription = "As USSR, gain 6 VP from OPEC."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [28]
+    0 AchievementData data
+     0 int id = 28
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_GAIN7VPFROMALLIANCEINPROGRESS"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.gain7vpfromallianceforprogress"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "This is Our Hemisphere!"
+     1 string displayDescription = "As US, gain 7 VP from Alliance for Progress."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [29]
+    0 AchievementData data
+     0 int id = 29
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_PLAYVOICEOFAMERICA3TIMESINONEGAME"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.playvoiceofamerica3timesinonegame"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "We are Radio-Active"
+     1 string displayDescription = "As US, play "The Voice of America" three times in one game."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+   [30]
+    0 AchievementData data
+     0 int id = 30
+     0 int achievedAtValue = 1
+     1 UInt8 isBitField = 0
+     1 string steamStatName = ""
+     1 string idNameSteam = "TS_PLAYVOICEOFAMERICAATTURN10AR8"
+     1 string idNameIOS = "com.playdekgames.twilightstruggle.playvoiceofamericaatturn10ar8"
+     1 string idNameAndroid = ""
+     1 string lockedSpritePath = "Avatars/Achievement_GenericLock01"
+     1 string unlockedSpritePath = "Avatars/Achievement_GenericUnlock01"
+     1 string displayName = "Final Broadcast"
+     1 string displayDescription = "As US, play "The Voice of America" during Turn 10, AR8 US."
+     1 UInt8 isHiddenAchievement = 0
+     1 UInt8 dontShowAchievement = 1
+     0 int currentValue = 0
+     1 UInt8 bHasAchieved = 0
+ 0 PPtr<$Achievements_Steam> m_steamSys
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 109
+ 0 PPtr<$Achievements_iOS> m_iOSSys
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 110
+ 0 PPtr<$Achievements_Android> m_AndroidSys
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 108
